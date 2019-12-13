@@ -1,5 +1,5 @@
 import os
-BASE = 'postgresql+psycopg2'
+BASE = 'postgresql-animated-67194'
 USERNAME = 'tzxlafwyaqqlzf'
 PASSWORD = '2cd44532fb7672b16eafda82016b90af320812680c97d421e763af28bc15e034'
 HOST = 'ec2-54-75-235-28.eu-west-1.compute.amazonaws.com'
