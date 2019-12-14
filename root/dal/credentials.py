@@ -1,9 +1,9 @@
 BASE = 'postgresql+psycopg2'
-USERNAME = 'tzxlafwyaqqlzf'
-PASSWORD = '2cd44532fb7672b16eafda82016b90af320812680c97d421e763af28bc15e034'
+USERNAME = 'skyxhlgvrzpahp'
+PASSWORD = '95018380db23f699f252b6e329944e40efdd9c5636da4955802887af62932249'
 HOST = 'ec2-54-75-235-28.eu-west-1.compute.amazonaws.com'
 PORT = '5432'
-DATABASE = 'd7q78cmhi891kf'
+DATABASE = 'delgjbilp6jvhv'
 DATABASE_URI = '{base}://{user}:{pw}@{host}:{port}/{db}'.format(
 base=BASE,
 user=USERNAME,
@@ -12,3 +12,5 @@ host=HOST,
 port=PORT,
 db=DATABASE
 )
+
+
